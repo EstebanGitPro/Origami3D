@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-04T21:18:48.141Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="K7C7LWYkRpQf-6Zl-DUM" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-04T21:20:25.060Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="zVKyqy7Hc2bY0f6PLpQ5" version="24.0.1" type="github">
   <diagram id="xej6dHYWylpV_z3s-e63" name="Página-1">
-    <mxGraphModel dx="3328" dy="1875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2367" dy="1874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1259,11 +1259,20 @@
         <mxCell id="jbNGFEgtfoUIuDVHa0RU-1" value="Software iniciado" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF7E1C;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="880" y="-54.53999999999999" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jbNGFEgtfoUIuDVHa0RU-2" value="Software iniciado" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF7E1C;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="jbNGFEgtfoUIuDVHa0RU-2" value="Menú Mostrado" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF7E1C;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="880" y="57.96000000000001" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jbNGFEgtfoUIuDVHa0RU-3" value="Iniciar Software" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#3DFFF9;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="800" y="-54.540000000000006" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jbNGFEgtfoUIuDVHa0RU-4" value="Mostrar&lt;div&gt;Software&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#3DFFF9;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="800" y="57.96000000000001" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jbNGFEgtfoUIuDVHa0RU-5" value="Software iniciado" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF7E1C;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="880" y="155.59000000000003" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jbNGFEgtfoUIuDVHa0RU-6" value="Iniciar Software" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#3DFFF9;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="800" y="155.59" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
